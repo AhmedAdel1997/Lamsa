@@ -18,5 +18,10 @@ A car cleaning app that allows users to book car washing services and track the 
 
 ## Screenshots
 
-<!-- Add screenshots here -->
-<img width="150" height="300" alt="unnamed (4)" src="https://github.com/user-attachments/assets/2e573ca2-0387-4e3e-adaa-e94fd1f2e725" />
+<img width="150" height="300" alt="unnamed (5)" src="https://github.com/user-attachments/assets/5b999ef2-f085-4c59-b162-e6d2a745a8a1" />
+<img width="150" height="300" alt="unnamed (4)" src="https://github.com/user-attachments/assets/958fba64-7aeb-46c5-906a-f718bc8e9bc3" />
+<img width="150" height="300" alt="unnamed (3)" src="https://github.com/user-attachments/assets/9a07a08c-3eb4-4f96-b195-890a98a2f3a8" />
+<img width="150" height="300" alt="unnamed (2)" src="https://github.com/user-attachments/assets/cee62303-3dc5-4e8f-a702-85ec4d4308dd" />
+<img width="150" height="300" alt="unnamed (1)" src="https://github.com/user-attachments/assets/30df5988-40bf-47b7-ac96-94b77d7a86ad" />
+<img width="150" height="300" alt="unnamed" src="https://github.com/user-attachments/assets/73bd9c84-fc79-4c03-92f2-acc6077d058e" />
+
